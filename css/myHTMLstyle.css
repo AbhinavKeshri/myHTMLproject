@@ -1,0 +1,63 @@
+
+.topTital{
+	background: #7262d0;
+	text-align:center;
+	font-family: Helvetica ;
+	
+}
+.topTital h2{
+	padding: 0;
+	margin-bottom: 0;
+}
+.topTital ul{
+	list-style: none;
+	margin-top: 0;
+	padding-left: 0;
+}
+.Availability{
+	color:#6299d0;
+	background: black;
+	padding:0;
+	margin:0;
+	font-family: Verdana;
+}
+.Availability h3{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+}
+.container{
+	margin: auto;
+	width: 80%;
+	font-family: Georgia;
+}
+.carrierObjective{
+	background-color: #2acb2a; 
+	margin-top:5px;
+	border-radius: 5px;
+}
+.navigation{
+	background-color:black;
+}
+.navigation ul{
+	list-style: none;
+	padding: 0;
+}
+.navigation li{
+	display: inline;
+}
+.navigation a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:15px;
+
+}
+
+.table table{
+	background-color: white;
+	border:10px;
+	width: 100%;
+
+}
